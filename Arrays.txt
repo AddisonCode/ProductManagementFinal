@@ -1,0 +1,4 @@
+Oranges	4.95	1	17
+Bananas	3.95	2	54
+Apples	7.95	3	3
+Fish	2.95	4	94
